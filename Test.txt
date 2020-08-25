@@ -1,0 +1,7 @@
+
+Exercise 4: Upload a file & Commit
+
+Step 1: Click Add file and select Upload files to upload a file (Upload any .txt,.ipynb, .png file) in the repository from the local computer.
+Step 2: Click on choose your files and choose any files from your computer.
+Step 3: Once the file finishes uploading, click on Commit Changes
+Step 4: Now, your file is uploaded in the repository.
